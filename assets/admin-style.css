@@ -1,0 +1,14 @@
+.modal.show .modal-dialog {
+    transform: none;
+    top: 30%;
+}
+
+.modal-body p>strong{
+    font-size: 1vw;
+}
+
+.modal-body p span{
+    font-size: 1vw;
+    font-weight: 400;
+
+}
